@@ -84,8 +84,8 @@ Dashboard Visualizations:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/lms-udemy-project.git
-cd lms-udemy-project
+git clone https://github.com/chhavviii/LMS.git
+cd LMS
 ```
 
 ### 2. Install dependencies
@@ -95,6 +95,6 @@ pip install -r requirements.txt
 
 ### 3. Run the main app from the `data/` directory
 ```bash
-streamlit run data/home.py
+streamlit run data/app.py
 ```
 
