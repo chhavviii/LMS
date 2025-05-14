@@ -23,7 +23,6 @@ This project is a complete Learning Management System (LMS) built using a real-w
     ├── recommend.py         # Course recommendation logic
     ├── chatbot.py           # Chatbot interface for roadmap and suggestions
 ├── LMS_EDA.ipynb       # EDA Jupyter Notebook
-├── images              # Visuals and screenshots
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
 ```
