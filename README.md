@@ -79,6 +79,22 @@ Dashboard Visualizations:
 - 🎯 Free vs. Paid course analysis
 - ⭐ Top-rated courses by subject
 
-> 🚀 Run the dashboard locally:
+
+## 🚀 How to Run the Project
+
+### 1. Clone the repository
 ```bash
-streamlit run dashboard.py
+git clone https://github.com/yourusername/lms-udemy-project.git
+cd lms-udemy-project
+```
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the main app from the `data/` directory
+```bash
+streamlit run data/home.py
+```
+
