@@ -48,7 +48,7 @@ Libraries used: `pandas`, `matplotlib`, `seaborn`, `plotly`
 
 ## 🤖 Recommendation System
 
-Implemented in [`data/recommend.py`](./data/recommend.py):
+Implemented in [`data/Recommend.py`](./data/Recommend.py):
 
 - Uses **TF-IDF Vectorizer** and **cosine similarity** to suggest relevant courses.
 - Inputs: Search keyword (e.g., "Python", "Data Science")
@@ -71,7 +71,7 @@ Implemented in [`data/chatbot.py`](./data/chatbot.py):
 
 ## 📈 Dashboard
 
-Implemented in [`data/dashboard.py`](./data/dashbaord.py) using **Streamlit** and **Plotly**.
+Implemented in [`data/Dashboard.py`](./data/Dashbaord.py) using **Streamlit** and **Plotly**.
 
 Dashboard Visualizations:
 - 📊 Subject-wise enrollments
