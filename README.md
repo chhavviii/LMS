@@ -71,7 +71,7 @@ Implemented in [`data/chatbot.py`](./data/chatbot.py):
 
 ## 📈 Dashboard
 
-Implemented in [`data/Dashboard.py`](./data/Dashbaord.py) using **Streamlit** and **Plotly**.
+Implemented in [`data/Dashboard.py`](./data/Dashboard.py) using **Streamlit** and **Plotly**.
 
 Dashboard Visualizations:
 - 📊 Subject-wise enrollments
