@@ -34,7 +34,7 @@ This project is a complete Learning Management System (LMS) built using a real-w
 
 ## 📊 Exploratory Data Analysis (EDA)
 
-> 📌 Refer to: [`LMSipynb.ipynb`](./LMSipynb.ipynb)
+> 📌 Refer to: [`LMS_EDA.ipynb`](./LMS_EDA.ipynb)
 
 Key insights from Udemy dataset analysis:
 - **Web Development** is the most common subject.
