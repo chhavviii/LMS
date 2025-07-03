@@ -20,7 +20,7 @@ from Dashboard import load_dashboard_tab  # Ensure this function exists
 # Load the dataset
 @st.cache_data
 def load_data():
-    df = pd.read_csv("udemy_courses.csv")
+    df = pd.read_csv("udemy_courses (1).csv")
     required_cols = ['course_title', 'subject', 'level']
     optional_cols = ['course_description']
 
